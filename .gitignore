@@ -1,0 +1,8 @@
+.DS_Store
+Thumbs.db
+historyImg/
+logs/
+modelWeight/
+statistics/
+temp/
+__pycache__/
